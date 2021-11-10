@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bernardo59.Bernardo59)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white
 
 
 
