@@ -1,7 +1,7 @@
 # Hello there 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[!](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 
 ```python
