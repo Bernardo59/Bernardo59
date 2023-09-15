@@ -11,7 +11,7 @@
 class FrenchDeveloper:
 
     def __init__(self):
-        self.name = "Benoit DESMOTTES"
+        self.name = "Biloute"
         self.role = "French developer"
         self.language_spoken = ["fr_FR", "en_US", "CHTI_Chti]
 
